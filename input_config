@@ -1,3 +1,8 @@
+Host git-sentry
+     HostName 10.0.1.22
+     User git_user
+     Port 22
+     IdentityFile /home/user/tmp_repo/README.md
 Host prod-server
      HostName 20.0.1.19
      User pull_user
