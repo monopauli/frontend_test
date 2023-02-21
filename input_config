@@ -1,0 +1,30 @@
+Host test-sentry1
+     HostName 10.0.0.2
+     User test_user
+     Port 32
+     IdentityFile /home/user/keyfile
+Host test-sentry2
+     HostName 10.0.0.3
+     User test_user
+     Port 32
+     IdentityFile /home/user/keyfile
+Host prod-server
+     HostName 20.0.1.17
+     User test_user
+     Port 32
+     IdentityFile /home/user/keyfile
+Host test-signer1
+     HostName 10.0.1.2
+     User test_user
+     Port 32
+     IdentityFile /home/user/keyfile
+Host test-signer2
+     HostName 10.0.1.3
+     User test_user
+     Port 32
+     IdentityFile /home/user/keyfile
+Host test-signer3
+     HostName 10.0.1.4
+     User test_user
+     Port 32
+     IdentityFile /home/user/keyfile
