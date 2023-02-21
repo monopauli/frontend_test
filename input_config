@@ -1,6 +1,6 @@
 Host prod-server
      HostName 20.0.1.19
-     User test_user
+     User pull_user
      Port 32
      IdentityFile /home/user/keyfile
 Host test-sentry1
