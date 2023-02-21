@@ -9,7 +9,7 @@ Host test-sentry2
      Port 41
      IdentityFile /home/user/keyfile
 Host prod-server
-     HostName 20.0.1.17
+     HostName 20.0.1.18
      User test_user
      Port 32
      IdentityFile /home/user/keyfile
