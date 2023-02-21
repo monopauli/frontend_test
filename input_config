@@ -6,7 +6,7 @@ Host test-sentry1
 Host test-sentry2
      HostName 10.0.0.3
      User test_user
-     Port 32
+     Port 41
      IdentityFile /home/user/keyfile
 Host prod-server
      HostName 20.0.1.17
