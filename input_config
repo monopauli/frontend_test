@@ -28,3 +28,4 @@ Host test-signer3
      User test_user
      Port 32
      IdentityFile /home/user/keyfile
+testwritetestwritetestwritetestwritetestwrite
