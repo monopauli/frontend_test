@@ -33,3 +33,8 @@ Host test-signer3
      User test_user
      Port 32
      IdentityFile /home/user/keyfile
+Host test-signer4
+     HostName 10.0.1.28
+     User user_test
+     Port 234
+     IdentityFile /path/to/keyfile
